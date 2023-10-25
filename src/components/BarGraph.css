@@ -1,0 +1,30 @@
+.bar-graph {
+
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  height: 170px;
+}
+ 
+.bars-list {
+
+  flex-direction: row;
+  display: flex;
+  align-items: flex-end;
+  column-gap: 20px;
+  width: 100%;
+  height: 100%;
+  
+}
+
+
+.bars-line {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  opacity: 0.5;
+  pointer-events: none;
+}
+
