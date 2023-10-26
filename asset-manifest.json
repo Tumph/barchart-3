@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repo-name/static/css/main.2b9ff755.css",
-    "main.js": "/repo-name/static/js/main.0c621c3b.js",
-    "static/js/787.7e700c79.chunk.js": "/repo-name/static/js/787.7e700c79.chunk.js",
-    "index.html": "/repo-name/index.html",
-    "main.2b9ff755.css.map": "/repo-name/static/css/main.2b9ff755.css.map",
-    "main.0c621c3b.js.map": "/repo-name/static/js/main.0c621c3b.js.map",
-    "787.7e700c79.chunk.js.map": "/repo-name/static/js/787.7e700c79.chunk.js.map"
+    "main.css": "/barchart-3/static/css/main.2b9ff755.css",
+    "main.js": "/barchart-3/static/js/main.6ec761ff.js",
+    "static/js/787.7e700c79.chunk.js": "/barchart-3/static/js/787.7e700c79.chunk.js",
+    "index.html": "/barchart-3/index.html",
+    "main.2b9ff755.css.map": "/barchart-3/static/css/main.2b9ff755.css.map",
+    "main.6ec761ff.js.map": "/barchart-3/static/js/main.6ec761ff.js.map",
+    "787.7e700c79.chunk.js.map": "/barchart-3/static/js/787.7e700c79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b9ff755.css",
-    "static/js/main.0c621c3b.js"
+    "static/js/main.6ec761ff.js"
   ]
 }
